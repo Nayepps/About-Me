@@ -1,0 +1,45 @@
+body{background: #CCFFCC;}
+
+h1 {font-size: 120px;
+	font-weight: bold;
+	line-height: 1px; 
+	color:#339966;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;}
+
+h2 { text-align: center;
+	margin: 0 auto; 
+	font-family:'Amatic SC', cursive;
+	font-size: 60px;
+	font: bolder; }	
+
+table {text-align: center; 
+	border: 1px 
+	solid #339966; 
+	width: 705px; 
+	margin: 0 auto; 
+	border- border-collapse: collapse;
+	border-spacing: 0px;}
+
+th {font-size: 40px; 
+	font-family:'Amatic SC', cursive; 
+	text-align: center; 
+	color: #FF0066; 
+	margin: 0px;
+	margin: 0; padding: 5px 30px 5px 10px;
+	font-weight: 900;}	
+	 
+td {width: 500px; 
+	 
+	border-spacing: 0px;
+	font-family:'Amatic SC', cursive;
+	text-align: center;
+	font-size: 35px;
+	font-weight: 800;}
+
+	}	
+
+
+
+
+
