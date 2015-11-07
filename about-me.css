@@ -4,19 +4,30 @@ h1 {font-family:'Amatic SC', cursive;
 	font-size: 100px;
 	font-weight: bold;
 	line-height: 1px; color:#339966;
-	}
-
-h1 {text-align: center;}
+	text-align: center;}
 
 h2 {font-family:'Amatic SC', cursive; 
 	font-size: 50px;
 	text-align:left;
 	line-height: 0}
 
-ul {font-family: Arial; font-size: 20px;}
+li {font-family: Arial; font-size: 20px;
+	display: left;}
 
 p {font-family: Arial; font-size: 20px;
    border-radius: 100px}
 
-h2 {}
+nav a {font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	color: green;
+	text-align: center;
+	display: inline-block;
+	width: 1000px}
+
+
+ 	   
+
+   
+
+
 			
